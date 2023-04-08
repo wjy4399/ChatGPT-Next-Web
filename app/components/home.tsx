@@ -122,15 +122,9 @@ function _Home() {
           <div className={styles["sidebar-title"]}>夕年科技</div>
           <div className={styles["sidebar-sub-title"]}>
             部署同款加QQ:173887942，api批量6元一个，plus共享号30元。
-          </div>
-          <div className={styles["sidebar-sub-title"]}>
             今日免费api:
-          </div>
-          <div className={styles["sidebar-sub-title"]}>
-            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
-          </div>
-          <div className={styles["sidebar-sub-title"]}>
-            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
+            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;
+            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;
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
