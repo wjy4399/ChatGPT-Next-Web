@@ -161,7 +161,7 @@ function _Home() {
             </div>
             <div className={styles["sidebar-action"]}>
               <a href={REPO_URL} target="_blank">
-                <IconButton icon={<GithubIcon />} text={Locale.Home.BuyKey} shadow />
+                <IconButton icon={<GithubIcon />} text="BuyKey" shadow />
               </a>
             </div>
           </div>
