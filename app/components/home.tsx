@@ -121,10 +121,10 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>夕年科技</div>
           <div className={styles["sidebar-sub-title"]}>
-            部署同款加QQ:173887942，api批量6元一个，plus共享号30元。
+            部署同款加QQ:173887942。
             今日免费api:
-            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;
-            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;
+            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;
+            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;
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
